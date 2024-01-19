@@ -36,9 +36,11 @@ I am constantly seeking to enhance my skills through specialized online courses,
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RonyAndersson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+
 ## Gato digitando rápido no computador
 
-![GIF de um gato digitando rápido no computador](https://tenor.com/es/view/cat-computer-typing-fast-gif-5368357)
+![GIF de um gato digitando rápido no computador](https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/assets/gato-typing.gif)
+
 
 
           
