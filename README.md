@@ -1,44 +1,4 @@
-<!-- Adicione isso no início do seu README -->
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rony Anderson's GitHub Profile</title>
-
-    <!-- Estilos para o dark mode -->
-    <style>
-        body {
-            background-color: #0d1117;
-            color: #c9d1d9;
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-
-        a {
-            color: #58a6ff;
-        }
-
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-
-        h1, h2, h3, h4, h5, h6 {
-            color: #58a6ff;
-        }
-
-        /* Adicione mais estilos conforme necessário para ajustar a aparência do seu conteúdo */
-    </style>
-</head>
-
-<body>
-
-<!-- Adicione o conteúdo do seu README aqui -->
-<div class="container">
 
 # 👋 Hello! Welcome to my Github profile. I´m Rony Anderson
 
@@ -76,8 +36,3 @@ I am constantly seeking to enhance my skills through specialized online courses,
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonyAndersson&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RonyAndersson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-</div> <!-- Feche a div da classe "container" -->
-
-</body>
-
-</html>
