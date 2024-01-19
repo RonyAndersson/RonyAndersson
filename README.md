@@ -37,7 +37,7 @@ I am constantly seeking to enhance my skills through specialized online courses,
 </div>
 
 
-<img src="https://tenor.com/es/view/cat-computer-typing-fast-gif-5368357"/>
+<img src="[https://tenor.com/es/view/cat-computer-typing-fast-gif-5368357](https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif)"/>
 
 
 
