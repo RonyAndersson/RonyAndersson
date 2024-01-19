@@ -8,6 +8,7 @@ I am currently a student of Systems Analysis and Development at SENAC, passionat
 I am constantly seeking to enhance my skills through specialized online courses, staying updated with the latest technologies and programming trends. I am eager to contribute to challenging projects with autonomy, focused on results, and collaborating with dynamic teams as a supporter, always seeking to learn and improve my capabilities in the field of Systems Analysis and Development. I am fluent in Spanish and have technical proficiency in English.
 
 ## 🛠 Skills
+<div style="display: inline-block;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40"/>
@@ -19,6 +20,7 @@ I am constantly seeking to enhance my skills through specialized online courses,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+</div>
 
 ## Contatos:
 
