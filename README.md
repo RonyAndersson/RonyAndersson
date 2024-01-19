@@ -1,11 +1,11 @@
-# 👋 Hello! Welcome to my Github profile.
-## I´m Rony Anderson 
+# 👋 Hello! Welcome to my Github profile. I´m Rony Anderson
 
 ## About me
 
 I am currently a student of Systems Analysis and Development at SENAC, passionate about exploring and creating innovative solutions in the field of technology. I possess strong skills in programming languages such as HTML, CSS3, Javascript, Bootstrap, Tailwind, SASS, and Java, along with knowledge in database management using MySQL. My journey includes proficient use of tools like VSCode, NetBeans, and IntelliJ IDEA.
 
 I am constantly seeking to enhance my skills through specialized online courses, staying updated with the latest technologies and programming trends. I am eager to contribute to challenging projects with autonomy, focused on results, and collaborating with dynamic teams as a supporter, always seeking to learn and improve my capabilities in the field of Systems Analysis and Development. I am fluent in Spanish and have technical proficiency in English.
+
 
 ## 🛠 Skills
 <div style="display: inline-block;">
@@ -32,8 +32,8 @@ I am constantly seeking to enhance my skills through specialized online courses,
 
 <div>
 <a href="https://github.com/RonyAndersson">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonyAndersson&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RonyAndersson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <div class="tenor-gif-embed" data-postid="5368357" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-computer-typing-fast-gif-5368357">Cat Computer GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
