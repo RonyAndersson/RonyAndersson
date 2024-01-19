@@ -37,9 +37,7 @@ I am constantly seeking to enhance my skills through specialized online courses,
 </div>
 
 
-## Gato digitando rápido no computador
-
-![GIF de um gato digitando rápido no computador](https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/assets/gato-typing.gif)
+<img src="https://tenor.com/es/view/cat-computer-typing-fast-gif-5368357"/>
 
 
 
